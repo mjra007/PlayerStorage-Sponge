@@ -1,0 +1,3 @@
+[submodule "DynamicDataMap"]
+	path = DynamicDataMap
+	url = https://github.com/mjra007/DynamicDataMap
